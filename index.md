@@ -5,7 +5,7 @@ Student ID: s3805948
 
 Email: lukegreen88@live.com.au
 
-![My Daughter and I](https://github.com/LukeGreen88/A1/blob/master/58717998_1104107653113832_2284129879358177280_n%20(2).jpg)
+![My Daughter and I](https://github.com/LukeGreen88/A1/blob/master/58717998_1104107653113832_2284129879358177280_n%20(2).jpg?raw=true)
 
 ### A bit about me:
 I’m 31, married and have a 2-year-old daughter named Evie (Yes, she is named after the Pokémon). I have previously studied and completed a Certificate 3 in business while working as an IS support officer for the Western Australian Police. I have also done some side study with AutoCAD and Architecture. After finishing these I realised I wasn’t passionate about that line of work and chose not to pursue it. In my spare time I play games online like DotA 2 with friends which I have played competitively. Before DotA 2 was released I was ranked 1st in the world on HoN (Heroes of Newearth).
@@ -22,6 +22,8 @@ The fundamentals of programming and how I can further my career in the IT indust
 ### My ideal job is: 
 A Senior Software Engineer
 [Link](https://au.indeed.com/viewjob?jk=fe4fa4bb44fc7a38&tk=1dbvbk8be82l9800&from=serp&vjs=3&advn=662411177827594&adid=158654681&sjdu=3j2yV1Cyo1TUbNt3be92UiSLmqpYcjanBa3vk45Ufz8YG15sEB0aYHpWcdqfecOy5w3mwCuVDPo84XcXjWbSvfs9kKM5BlLhBWFUSd2gA7w)
+
+![Ideal Job](https://github.com/LukeGreen88/A1/blob/master/Job.PNG?raw=true)
  
 ### My description of the job advertisement:
 The above position I feel is going to be what most mining companies will be doing in the next 5-10 years. Virtualization of mine sites through graphic design and programming. This position is looking for senior software engineers to support what looks like their own 3D visual program.
@@ -37,20 +39,15 @@ I plan on completing my degree in IT while also looking for a junior or similar 
 
 ### Tests Results:
 
-![Myers-Briggs test](https://github.com/LukeGreen88/A1/blob/master/Personality%20Test.PNG)
-![Learning Style test](https://github.com/LukeGreen88/A1/blob/master/Learning%20Style%20Test.PNG)
-![Working Style test](https://github.com/LukeGreen88/A1/blob/master/Working%20Style%20Test.PNG)
+![Myers-Briggs test](https://github.com/LukeGreen88/A1/blob/master/Personality%20Test.PNG?raw=true)
+![Learning Style test](https://github.com/LukeGreen88/A1/blob/master/Learning%20Style%20Test.PNG?raw=true)
+![Working Style test](https://github.com/LukeGreen88/A1/blob/master/Working%20Style%20Test.PNG?raw=true)
 
 The results from the three tests above are accurate in describing my personality and working style. The defender personality seems quite reserved but they have good analytical skills which is very much like me. The work style test also reinforces what is said in the Myers-Briggs test by saying that I am very self-improvement oriented and always willing to go the extra mile. I do feel that over time these results would change depending on life experiences and my study. The learning style test doesn’t really reflect my style of learning but some of the recommendations of how-to study will certainly help as I further my self-improvement.
 
 The results of the test themselves would not influence my behaviour in a team as it has only labelled my personality type and does not define how I must work or run a team. If they were to influence it, it would show I have the motivation to learn and have a passion for perfectionism and in a team I would be the centre of knowledge and a platform for others to work from, but it also shows I would probably get taken advantage of as my knowledge may be taken by others personal gain.
 
 As a Defender I would hope to have in my team similar people like myself which are object orientated, motivated and strive for perfection. The team would also require management that has clear goals and an object focused mind but someone that can also think outside the box and excite the team with new ideas. I feel that the team would require a personality that entertains and keeps the team moral up so they can stay motivated end enjoy their workplace.
-
-
-
-
-
 
 ### My project Idea:
 My idea is to create a website that allows game developers and programmers to show off their ideas and projects that they are currently working on and give them more visibility to the public. This could also be used for a CV for people of the IT world to show off their previous experience and projects, that they have done (Similar to the website www.imdb.com). I would also like to be able to showcase different things that people are working on to promote the projects or ideas.

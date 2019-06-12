@@ -3,7 +3,7 @@ Name: Luke Green
 
 Student ID: s3805948
 
-Email: Lukegreen88@live.com.au
+Email: lukegreen88@live.com.au
 
 
 ### A bit about me:

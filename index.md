@@ -1,5 +1,3 @@
-# Assignment 1
-
 ### My Profile
 Name: Luke Green
 Student ID: s3805948

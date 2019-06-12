@@ -5,6 +5,7 @@ Student ID: s3805948
 
 Email: lukegreen88@live.com.au
 
+!(https://github.com/LukeGreen88/A1/blob/master/58717998_1104107653113832_2284129879358177280_n%20(2).jpg)
 
 ### A bit about me:
 I’m 31, married and have a 2-year-old daughter named Evie (Yes, she is named after the Pokémon). I have previously studied and completed a Certificate 3 in business while working as an IS support officer for the Western Australian Police. I have also done some side study with AutoCAD and Architecture. After finishing these I realised I wasn’t passionate about that line of work and chose not to pursue it. In my spare time I play games online like DotA 2 with friends which I have played competitively. Before DotA 2 was released I was ranked 1st in the world on HoN (Heroes of Newearth).
@@ -35,7 +36,12 @@ Strong mathematics, self-motivated and communication sills due to my previous ro
 I plan on completing my degree in IT while also looking for a junior or similar roll in programming/development. I will continue to gain the required skills in the C++ and 3D modelling areas by either studying another degree/short course or through career advancement in IT positions. This will take a few years while I work full time, study full time and raise my young daughter.
 
 ### Tests Results:
-The results from the three tests attached are accurate in describing my personality and working style. The defender personality seems quite reserved but they have good analytical skills which is very much like me. The work style test also reinforces what is said in the Myers-Briggs test by saying that I am very self-improvement oriented and always willing to go the extra mile. I do feel that over time these results would change depending on life experiences and my study. The learning style test doesn’t really reflect my style of learning but some of the recommendations of how-to study will certainly help as I further my self-improvement.
+
+![Myers-Briggs test](https://github.com/LukeGreen88/A1/blob/master/Personality%20Test.PNG)
+![Learning Style test](https://github.com/LukeGreen88/A1/blob/master/Learning%20Style%20Test.PNG)
+![Working Style test](https://github.com/LukeGreen88/A1/blob/master/Working%20Style%20Test.PNG)
+
+The results from the three tests above are accurate in describing my personality and working style. The defender personality seems quite reserved but they have good analytical skills which is very much like me. The work style test also reinforces what is said in the Myers-Briggs test by saying that I am very self-improvement oriented and always willing to go the extra mile. I do feel that over time these results would change depending on life experiences and my study. The learning style test doesn’t really reflect my style of learning but some of the recommendations of how-to study will certainly help as I further my self-improvement.
 
 The results of the test themselves would not influence my behaviour in a team as it has only labelled my personality type and does not define how I must work or run a team. If they were to influence it, it would show I have the motivation to learn and have a passion for perfectionism and in a team I would be the centre of knowledge and a platform for others to work from, but it also shows I would probably get taken advantage of as my knowledge may be taken by others personal gain.
 

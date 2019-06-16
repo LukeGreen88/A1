@@ -86,5 +86,5 @@ Au.indeed.com. (2019). Job Search | Indeed. [online] Available at: https://au.in
 
 Psychology Today. (2019). Work Style Test | Psychology Today Australia. [online] Available at: https://www.psychologytoday.com/au/tests/career/work-style-test.
 
-How-to-study.com. (2019). Determine My Learning Style. [online] Available at: https://www.how-to-study.com/learning-style-assessment/.
+How-to-study.com. (2019). Determine My Learning Style. | [online] Available at: https://www.how-to-study.com/learning-style-assessment/.
 

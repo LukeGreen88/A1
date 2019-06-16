@@ -80,15 +80,13 @@ If this project was successful it would bring developers and designers closer to
 
 ### References
 
-Au.indeed.com. (2019). Job Search | Indeed. [online] Available at: https://au.indeed.com.
+16Personalities. (2019). Free personality test | 16Personalities. [online] Available at: https://www.16personalities.com/free-personality-test.
 
-16Personalities. (2019). Free personality test | 16Personalities. [online] Available at: https://www.16personalities.com/free-personality-test. 
+Au.indeed.com. (2019). Job Search | Indeed. [online] Available at: https://au.indeed.com.
 
 How-To-Study.com and SOAR Learning, I. (2019). Determine My Learning Style. [online] How-to-study.com. Available at: https://www.how-to-study.com/learning-style-assessment/.
 
 Psychology Today. (2019). Work Style Test | Psychology Today Australia. [online] Available at: https://www.psychologytoday.com/au/tests/career/work-style-test.
-
-
 
 
 

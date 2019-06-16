@@ -5,7 +5,7 @@ Student ID: s3805948
 
 Email: lukegreen88@live.com.au
 
-![My Daughter and I](https://github.com/LukeGreen88/A1/blob/master/58717998_1104107653113832_2284129879358177280_n%20(2).jpg?raw=true"My Daughter and I")
+![My Daughter and I](https://github.com/LukeGreen88/A1/blob/master/58717998_1104107653113832_2284129879358177280_n%20(2).jpg?raw=true "My Daughter and I")
 
 ### A bit about me:
 I’m 31, married and have a 2-year-old daughter named Evie (Yes, she is named after the Pokémon). I have previously studied and completed a Certificate 3 in business while working as an IS support officer for the Western Australian Police. I have also done some side study with AutoCAD and Architecture. After finishing these I realised I wasn’t passionate about that line of work and chose not to pursue it. In my spare time I play games online like DotA 2 with friends which I have played competitively. Before DotA 2 was released I was ranked 1st in the world on HoN (Heroes of Newearth).

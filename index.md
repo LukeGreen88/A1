@@ -84,7 +84,7 @@ If this project was successful it would bring developers and designers closer to
 
 Au.indeed.com. (2019). Job Search | Indeed. [online] Available at: https://au.indeed.com.
 
-How-To-Study.com and SOAR Learning, I. (2019). Determine My Learning Style. [online] How-to-study.com. Available at: https://www.how-to-study.com/learning-style-assessment/.
+How-To-Study.com and SOAR Learning. (2019). Determine My Learning Style. [online] How-to-study.com. Available at: https://www.how-to-study.com/learning-style-assessment/.
 
 Psychology Today. (2019). Work Style Test | Psychology Today Australia. [online] Available at: https://www.psychologytoday.com/au/tests/career/work-style-test.
 

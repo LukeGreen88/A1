@@ -5,7 +5,7 @@ Student ID: s3805948
 
 Email: lukegreen88@live.com.au
 
-![My Daughter and I](https://github.com/LukeGreen88/A1/blob/master/58717998_1104107653113832_2284129879358177280_n%20(2).jpg?raw=true)
+![My Daughter and I](https://github.com/LukeGreen88/A1/blob/master/58717998_1104107653113832_2284129879358177280_n%20(2).jpg?raw=true"My Daughter and I")
 
 ### A bit about me:
 I’m 31, married and have a 2-year-old daughter named Evie (Yes, she is named after the Pokémon). I have previously studied and completed a Certificate 3 in business while working as an IS support officer for the Western Australian Police. I have also done some side study with AutoCAD and Architecture. After finishing these I realised I wasn’t passionate about that line of work and chose not to pursue it. In my spare time I play games online like DotA 2 with friends which I have played competitively. Before DotA 2 was released I was ranked 1st in the world on HoN (Heroes of Newearth).
@@ -39,9 +39,9 @@ I plan on completing my degree in IT while also looking for a junior or similar 
 
 ### Tests Results:
 
-![Myers-Briggs test](https://github.com/LukeGreen88/A1/blob/master/Personality%20Test.PNG?raw=true)
-![Learning Style test](https://github.com/LukeGreen88/A1/blob/master/Learning%20Style%20Test.PNG?raw=true)
-![Working Style test](https://github.com/LukeGreen88/A1/blob/master/Working%20Style%20Test.PNG?raw=true)
+![Myers-Briggs test](https://github.com/LukeGreen88/A1/blob/master/Personality%20Test.PNG?raw=true "Care of 16personalities.com")
+![Learning Style test](https://github.com/LukeGreen88/A1/blob/master/Learning%20Style%20Test.PNG?raw=true "Care of how-to-study.com/learning-style-assessment/")
+![Working Style test](https://github.com/LukeGreen88/A1/blob/master/Working%20Style%20Test.PNG?raw=true "Care of psychologytoday.com/au/tests/career/work-style-test")
 
 The results from the three tests above are accurate in describing my personality and working style. The defender personality seems quite reserved but they have good analytical skills which is very much like me. The work style test also reinforces what is said in the Myers-Briggs test by saying that I am very self-improvement oriented and always willing to go the extra mile. I do feel that over time these results would change depending on life experiences and my study. The learning style test doesn’t really reflect my style of learning but some of the recommendations of how-to study will certainly help as I further my self-improvement.
 
@@ -77,6 +77,16 @@ Most tools and technology needed for this project is readily available as most o
 The main skills required for this project would be coding and website development. It would also need a journalist of some sort to write news and featurettes and someone to advertise the website to get the idea out there. Most of the above skills are openly available but finding people that would be interested in the project would be the first part.
 
 If this project was successful it would bring developers and designers closer together with the ability to share and help each other. It would also help show new things that are available for people who are interested in IT and programming. The main impact this project would have is people in the development side of things would have more recognition, more chances for jobs and the possibility of connecting with others like them. This project currently would only focus on the programming and development side of things but could also extend out in other professions that want to advertise jobs globally.
+
+### References
+
+Au.indeed.com. (2019). Job Search | Indeed. [online] Available at: https://au.indeed.com.
+
+16Personalities. (2019). Free personality test | 16Personalities. [online] Available at: https://www.16personalities.com/free-personality-test. 
+
+How-To-Study.com and SOAR Learning, I. (2019). Determine My Learning Style. [online] How-to-study.com. Available at: https://www.how-to-study.com/learning-style-assessment/.
+
+Psychology Today. (2019). Work Style Test | Psychology Today Australia. [online] Available at: https://www.psychologytoday.com/au/tests/career/work-style-test.
 
 
 
